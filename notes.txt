@@ -1,0 +1,13 @@
+
+database structure:
+
+int id
+string name
+int phonenumber
+
+main menu
+
+1. Add contact
+2. Show contacts
+3. Edit contacts
+4. Delete contacts
